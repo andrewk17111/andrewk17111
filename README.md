@@ -5,7 +5,6 @@ I'm Andrew Kress, a computer science major, data science & math minors at Shippe
 ## About me
 
 - 🔭 I’m currently working on multiple projects in my GitHub repositories.
-- 👯 I’m looking to collaborate on open source projects that are related to web development, data science or machine learning.
 - 🤔 I’m looking for help with improving my coding skills and learning new technologies.
 - 💬 Ask me about anything related to computer science or programming.
 - 📫 How to reach me: You can contact me through email at andrewk17111@gmail.com
