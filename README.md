@@ -9,7 +9,6 @@ I'm Andrew Kress, a computer science major, data science & math minors at Shippe
 - 💬 Ask me about anything related to computer science or programming.
 - 📫 How to reach me: You can contact me through email at andrewk17111@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing video games and watching movies.
 
 ## Skills
 - Programming Languages: C#, Java, C, Visual Basic, R, Python, HTML & CSS, JavaScript, SQL
