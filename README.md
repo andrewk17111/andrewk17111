@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**andrewk17111/andrewk17111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Andrew Kress, a computer science major, data science & math minors at Shippensburg University - Class of 2023.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on multiple projects in my GitHub repositories.
+- 👯 I’m looking to collaborate on open source projects that are related to web development, data science or machine learning.
+- 🤔 I’m looking for help with improving my coding skills and learning new technologies.
+- 💬 Ask me about anything related to computer science or programming.
+- 📫 How to reach me: You can contact me through email at andrewk17111@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love playing video games and watching movies.
+
+## Skills
+- Programming Languages: C#, Java, C, Visual Basic, R, Python, HTML & CSS, JavaScript, SQL
+- Operating Systems: Windows, Linux
+- IDEs & Tools: Visual Studio, Visual Studio Code, Eclipse, git, Godot, Notepad++, Vim
+- Applications: Microsoft Office (Word, Excel, PowerPoint, OneNote, Access), Teams, Zoom
+
+## Stats
+
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewk17111&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewk17111&layout=compact&theme=radical)
